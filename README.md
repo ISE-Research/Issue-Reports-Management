@@ -4,7 +4,7 @@ This repository contains our source code ad data on the use of machine learning 
 Access this dataset and source code by following this link: <a href="https://github.com/MalihehIzadi/IssueReportsManagement" target="_blank">https://github.com/MalihehIzadi/IssueReportsManagement</a>
 
 ## Citation
-This work is accepted for publication in [EMSE Journal](https://rdcu.be/cGbS4), under the title of "Predicting the Objective and Priority of Issue Reports in Software Repositories".
+This work is accepted for publication in [Empirical Software Engineering Journal](https://rdcu.be/cGbS4), under the title of "Predicting the Objective and Priority of Issue Reports in Software Repositories".
 
 ```python
 @article{izadi2022predicting,
